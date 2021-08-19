@@ -1,6 +1,19 @@
 # RisolutoreTetris
 Risolutore automatico di tetris che, presi in input un immagine contenente uno schema, e un'immagine con dei tetramini, piazza i tetramini nel posto corrispondente.
 
+Come strumento ho utilizzato **MATLAB** con un tool per l'**image processing**
+(in modo da poter riconoscere nelle immagini i tetramini e lo schema)
+
+
+Con delle tecniche di elaborazione delle immagini é stato **riconosciuto** e **etichettato** singolarmente **ogni tetramino** all'interno della scena
+Ed é stato poi **riconosciuto** e **etichettato** lo **schema** dove collocare gli oggetti
+
+
+Successivamente é stato scritto un algoritmo che calcola la correlazione per ogni coppia tetraminoScena-tetraminoSchema e l'angolo di rotazione per ogni oggetto
+
+
+Infine, se é stata trovata una **corrispondenza**, l'oggetto viene **applicato nello schema** producendo il **risultato finale**
+
 
 Per il corretto funzionamento controllare la qualità delle immagini riportate in seguito.
 Questo perché una loro compressione porterebbe a un cambiando del risultato della classificazione.
