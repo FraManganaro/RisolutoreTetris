@@ -1,6 +1,8 @@
 # RisolutoreTetris
 Risolutore automatico di tetris che, presi in input un immagine contenente uno schema, e un'immagine con dei tetramini, colloca i tetramini nel posto corrispondente.
 
+![Schema+Scena](https://user-images.githubusercontent.com/65859032/130081496-35ea9c32-afc7-4777-9c64-42564fdd8d8d.png)
+
 Come strumento ho utilizzato **MATLAB** con un tool per l'**image processing**
 (in modo da poter riconoscere nelle immagini i tetramini e lo schema)
 
