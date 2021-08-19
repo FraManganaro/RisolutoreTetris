@@ -36,4 +36,7 @@ sauvola.m	             --> 	script con implementazione dell'algoritmo di Sauvola
 
 quality_control.m
 clicksubplot.m		     --> 	File usati per effettuare il test di accuratezza finale
-analysis.mat		
+analysis.mat
+
+## Alcuni risultati ottenuti
+![RisultatiOttenuti](https://user-images.githubusercontent.com/65859032/130080909-de263043-d41b-4dbb-a156-ed43cdaaf476.png)
