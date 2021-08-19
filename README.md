@@ -1,10 +1,12 @@
 # RisolutoreTetris
 Risolutore automatico di tetris che, presi in input un immagine contenente uno schema, e un'immagine con dei tetramini, piazza i tetramini nel posto corrispondente.
 
+
 Per il corretto funzionamento controllare la qualità delle immagini riportate in seguito.
 Questo perché una loro compressione porterebbe a un cambiando del risultato della classificazione.
 
 sfondo.jpg		5292 KB
+
 tetramini.jpg 		441 KB
 
 
