@@ -41,4 +41,4 @@ clicksubplot.m		     --> 	File usati per effettuare il test di accuratezza final
 analysis.mat
 
 ## Alcuni risultati ottenuti
-![RisultatiOttenuti](https://user-images.githubusercontent.com/65859032/130080909-de263043-d41b-4dbb-a156-ed43cdaaf476.png)
+![RisultatiOttenuti](https://user-images.githubusercontent.com/65859032/130272557-262edda8-161f-484c-8896-70e816fcc0c7.png)
